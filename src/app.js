@@ -1,0 +1,1 @@
+console.log('rmui-i18n'); //eslint-disable-line
